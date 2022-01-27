@@ -1,0 +1,43 @@
+.content__text {
+  margin-left: 15px;
+  margin-top: 25px;
+  font-size: 25px;
+  font-weight: 700;
+}
+.content {
+  display: flex;
+  overflow-x: scroll;
+}
+.content::-webkit-scrollbar {
+  display: none;
+}
+.content__img-1 {
+  margin: 20px 15px;
+  display: block;
+
+  color: rgb(255, 205, 51);
+}
+
+.content__img-2 {
+  margin: 20px 15px;
+  display: block;
+
+  color: rgb(255, 205, 51);
+}
+.content__img-3 {
+  margin: 20px 15px;
+  display: block;
+
+  color: rgb(255, 205, 51);
+}
+.content__img-4 {
+  margin: 20px 15px;
+  display: block;
+
+  color: rgb(255, 205, 51);
+}
+.content__bookcover {
+  height: 100px;
+  width: 70px;
+  border-radius: 5px;
+}

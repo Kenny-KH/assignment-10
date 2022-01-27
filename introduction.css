@@ -1,0 +1,32 @@
+.introduction__text {
+  margin-left: 15px;
+  margin-top: 25px;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.introduction {
+  display: flex;
+  margin-left: 15px;
+}
+
+.introduction__img {
+  margin-top: 30px;
+  width: 100px;
+  height: 130px;
+  border-radius: 10px;
+}
+
+.introduction__name {
+  margin-top: 30px;
+  margin-left: 20px;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.introduction__explain {
+  margin-top: 15px;
+  margin-left: 20px;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.4);
+}
